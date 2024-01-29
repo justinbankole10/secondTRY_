@@ -1,0 +1,34 @@
+body {background-color: saddlebrown;}
+
+h1 { text-align: center;
+    color: rgb(206, 203, 203);
+    text-decoration: underline;
+}
+
+h2,
+h3,
+p { text-align: center;
+    color: rgb(243, 243, 248);
+}
+
+p,
+li { text-align: center;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Geneva, Tahoma, sans-serif;
+}
+
+almond { text-align: center;
+    color: rgb(243, 243, 248);
+}
+
+butterfinger { text-align: center;
+    color: rgb(244, 244, 248);
+}
+
+ferrero { text-align: center;
+    color: rgb(240, 240, 247);
+}
+
+all { text-align: center;
+    color: rgb(250, 249, 245);
+}
