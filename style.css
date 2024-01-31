@@ -1,0 +1,42 @@
+body {
+  background-color: #efeee7;}
+head
+#different_font {
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  color: #333333;
+}
+div {
+  border: 2px solid #333333;
+  background-color: #efeee7;
+  padding-top: 60px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+body {margin: 0 auto;
+      padding: 0;
+    }
+header {
+  background-color: #dfcdcd;
+}
+h1 {color: #eee;
+    font-size: 28px;
+  }
+h2 {
+  font-size: 24px;
+  width: 1024px;
+  margin: auto;
+}  
+section {float: left;
+}
+img {height: 200px;: left;
+}
+img {width: 200px;
+}
+section {
+  width: 70%;
+}
+
+
+
